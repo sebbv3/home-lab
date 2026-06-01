@@ -1,0 +1,26 @@
+# Home Lab
+
+Personal home lab project built while learning IT support, Linux, networking and cloud technologies.
+
+## Completed
+
+### Ubuntu Virtual Machine
+- Installed Ubuntu in VirtualBox
+- Practiced Linux terminal commands
+- Installed software using apt
+
+### Git & GitHub
+- Created repositories
+- Cloned repositories
+- Created commits and pushed changes
+
+## In Progress
+- Networking
+- Apache Web Server
+
+## Future Goals
+- Docker
+- SSH
+- User and Group Management
+- Permissions
+- Linux Services
