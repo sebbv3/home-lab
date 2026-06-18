@@ -111,7 +111,7 @@ docker pull mysql:8
 docker-compose up -d
 docker ps
 docker images
-b889e49 (home-lab)
+b889e49 (home-lab)```
 
 # Wi-Fi Troubleshooting Lab
 
