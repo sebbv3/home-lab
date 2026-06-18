@@ -111,4 +111,51 @@ docker pull mysql:8
 docker-compose up -d
 docker ps
 docker images
- b889e49 (home-lab)
+b889e49 (home-lab)
+
+# Wi-Fi Troubleshooting Lab
+
+## Issue
+
+A Windows laptop showed a yellow warning icon on the network connection and the Wi-Fi adapter was not functioning correctly.
+
+After further investigation, the Wi-Fi icon disappeared completely from the system tray, indicating a possible wireless adapter or driver issue.
+
+## Symptoms
+
+* No internet connectivity
+* Yellow warning icon on network connection
+* Wi-Fi icon missing from Windows taskbar
+* Unable to view available wireless networks
+
+## Troubleshooting Process
+
+1. Verified that Airplane Mode was disabled.
+2. Checked if the Wi-Fi adapter was enabled.
+3. Opened Device Manager and inspected network adapters.
+4. Identified a potential issue with the wireless adapter driver.
+5. Uninstalled the Wi-Fi adapter from Device Manager.
+6. Restarted the computer.
+7. Allowed Windows to reinstall the network adapter automatically.
+8. Confirmed that the Wi-Fi icon returned.
+9. Reconnected to the wireless network.
+10. Verified internet connectivity.
+
+## Tools Used
+
+* Windows Device Manager
+* Windows Network Settings
+* Network Adapter Diagnostics
+
+## Skills Practiced
+
+* Endpoint Troubleshooting
+* Network Troubleshooting
+* Driver Troubleshooting
+* Windows Operating System Support
+* Root Cause Analysis
+
+## Outcome
+
+Successfully restored Wi-Fi functionality by reinstalling the wireless network adapter and verifying network connectivity.
+
