@@ -53,3 +53,62 @@ Skills:
 - Bash scripting
 - Network diagnostics
 - Basic automation
+
+# Home Lab
+
+Personal home lab project built while learning IT support, Linux, networking and cloud technologies.
+
+## Completed
+
+### Ubuntu Virtual Machine
+- Installed Ubuntu in VirtualBox
+- Practiced Linux terminal commands
+- Installed software using apt
+
+### Git & GitHub
+- Created repositories
+- Cloned repositories
+- Created commits and pushed changes
+
+## In Progress
+- Networking
+- Apache Web Server
+- Docker
+- SSH
+- User and Group Management
+- Permissions
+- Linux Services
+
+
+# WordPress + MySQL Docker Lab
+
+## Overview
+
+Deployed a WordPress website with a MySQL database using Docker Compose on Ubuntu Linux.
+
+## Technologies
+
+- Ubuntu Linux
+- Docker
+- Docker Compose
+- WordPress
+- MySQL
+
+## Skills Practiced
+
+- Container deployment
+- Docker image management
+- Docker networking
+- Docker volumes
+- Service troubleshooting
+- Linux command line
+
+## Commands Used
+
+```bash
+docker pull wordpress
+docker pull mysql:8
+docker-compose up -d
+docker ps
+docker images
+ b889e49 (home-lab)
